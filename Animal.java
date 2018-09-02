@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * methods, it provides methods to check for being at the edge of the world, as well as
  * seeing and eating other classes.
  * 
- * @author Michael Kolling
+ * @author Kushagr Arora
  * @version 2.0
  */
 public class Animal extends Actor
